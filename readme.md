@@ -124,3 +124,4 @@ def get_data(query):
 read_query = "SELECT * FROM developers"
 
 get_data(read_query)
+
